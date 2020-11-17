@@ -1,15 +1,13 @@
 Source: hello
-Section: unknown
+Section: devel
 Priority: optional
-Maintainer: root <root@unknown>
+Maintainer: Wilton Runtime <alex.staticlibs+wilton@gmail.com>
 Build-Depends: debhelper-compat (= 12)
 Standards-Version: 4.4.1
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Browser: https://salsa.debian.org/debian/hello
-#Vcs-Git: https://salsa.debian.org/debian/hello.git
+Homepage: https://github.com/wiltonruntime
 
 Package: hello
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: A hello app
+	An app hello

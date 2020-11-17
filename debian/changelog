@@ -1,5 +1,5 @@
-hello (1.0-1); urgency=medium
+hello (1.0-1) focal; urgency=medium
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release
 
- -- root <root@unknown>  Tue, 17 Nov 2020 08:47:57 -0800
+ -- Wilton Runtime <alex.staticlibs+wilton@gmail.com>  Tue, 17 Nov 2020 08:47:57 -0800
